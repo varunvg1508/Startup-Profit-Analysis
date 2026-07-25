@@ -39,7 +39,7 @@ This project analyzes startup data to identify the factors influencing company p
 ![Florida](Dashboard_Florida.png)
 
 ### New York Dashboard
-![New York](Dashboard_New york.png)
+![New York](Dashboard_New_york.png)
 
 ## Key Insights
 - R&D spending had the strongest positive impact on profit.
