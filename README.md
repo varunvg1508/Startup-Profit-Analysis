@@ -27,6 +27,20 @@ This project analyzes startup data to identify the factors influencing company p
 - 📽️ Project Presentation
 - 🖼️ Dashboard Screenshots
 
+## Dashboard Preview
+
+### Overall Dashboard
+![Dashboard](Dashboard.png)
+
+### California Dashboard
+![California](Dashboard_California.png)
+
+### Florida Dashboard
+![Florida](Dashboard_Florida.png)
+
+### New York Dashboard
+![New York](Dashboard_New york.png)
+
 ## Key Insights
 - R&D spending had the strongest positive impact on profit.
 - Marketing expenditure showed a moderate influence.
